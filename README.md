@@ -22,9 +22,6 @@ Es wird nicht geprüft, ob die E-Mail zustellbar ist oder nicht.
 Lizenz:
 Das Programm steht unter der GPL 3.0 für Schäden
 
-Bei Fragen:
-Bitte eine Mail an kai.winzker@et.hs-fulda.de mit dem Betreff Fragenzecke.
-
 Beispielausführung:(Linux)
 python3 /home/Max/eclipse-workspace/Zecke/zecke.py
 Benutze dieses Programm nur von deinem Privatrechner!!!
